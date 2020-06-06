@@ -1,0 +1,2100 @@
+数据结构与算法分析	8.9	1915	
+C陷阱与缺陷	8.9	1357	
+C程序设计语言	9.4	4522	
+现代编译原理	8.5	134	
+C	7.8	95	
+数据结构与算法分析	9.1	80	
+C标准库	8.8	154	
+编程精粹	9.1	138	
+算法精解	8.1	141	
+C专家编程	9.2	1958	
+高质量程序设计指南	8.1	465	
+C和指针	9.0	1450	
+数据结构	9.3	322	
+C Primer Plus	9.1	1847	
+英国史（全三卷）	7.6	183	
+鹿苑长春	9.1	689	
+C语言程序设计	9.3	416	
+纽约无人是客	8.6	892	
+The  C Programming Language	9.6	1299	
+Linux多线程服务端编程	8.8	480	
+C Primer Plus（第6版）中文版	9.4	725	
+Effective Modern C++	9.4	286	
+C语言编程：一本全面的C语言入门教程（第三版）	8.8	180	
+Linux C编程一站式学习	8.9	621	
+TCP/IP Sockets编程	7.6	56	
+程序设计抽象思想	8.9	26	
+数据结构与算法分析	8.5	296	
+深入浅出MFC （第二版）	8.9	540	
+C程序设计	7.0	1500	
+C语言程序设计现代方法	9.4	224	
+大问题	9.3	5110	
+算法：C语言实现	8.8	196	
+使日十年	8.7	20	
+高卢战记译笺·第一卷	9.8	56	
+深入理解C++11	7.6	222	
+社会学的想象力	9.1	2074	
+一站式学习C编程	9.3	228	
+C语言接口与实现	9.1	122	
+Effective Modern C++ 简体中文版	8.9	77	
+C程序设计语言	9.6	572	
+嗨翻C语言	9.2	167	
+C程序设计(第四版)	6.7	447	
+Node.js：来一打 C++ 扩展	9.1	24	
+六论自发性	9.1	741	
+从问题到程序	8.3	57	
+C++ Primer 中文版（第 5 版）	9.4	1720	
+C语言入门经典	8.6	270	
+数据结构（C语言版）	6.4	263	
+数据结构	7.3	305	
+JavaScript高级程序设计（第3版）	9.3	2345	
+应用密码学	8.9	172	
+红书	9.1	777	
+欧洲中世纪史	8.9	3240	
+线性代数及其应用	9.2	930	
+代码整洁之道	8.6	1685	
+C++ Primer 中文版（第 4 版）	9.2	4299	
+C语言名题精选百则技巧篇	9.0	53	
+C语言的科学和艺术	8.8	123	
+Effective C# 中文版	8.0	147	
+研究是一门艺术	8.6	1436	
+善的脆弱性（修订版）	9.5	187	
+红书	9.2	475	
+2001：太空漫游	9.3	2824	
+认知天性	7.8	3637	
+Data Structures and Algorithm Analysis in C (2nd Edition)	8.8	78	
+国家的视角	8.4	215	
+明解C语言	8.9	129	
+C	0.0	3	
+C语言深度解剖	7.4	129	
+动手学深度学习	9.4	163	
+敏捷软件开发	9.0	1410	
+哲学导论	9.0	576	
+现代编译原理	9.1	28	
+深度探索C++对象模型	9.1	1445	
+弱者的武器	8.6	723	
+数据结构、算法与应用（原书第2版）	7.5	37	
+如果一切重来	7.3	5205	
+荣格心理学入门	9.0	848	
+C	0.0	6	
+Learning OpenCV 3	9.3	24	
+金赛性学报告	8.1	883	
+Expert C Programming	9.5	137	
+与拉玛相会	8.8	1925	
+直觉泵和其他思考工具	7.9	855	
+被弃的意象	9.5	56	
+数据结构与算法分析	9.2	76	
+C	0.0	3	
+操作系统导论	9.0	142	
+中国佤族医药	0.0	2	
+Effective C++	9.5	691	
+小说鉴赏（双语修订第3版）	8.8	724	
+C语言参考手册	9.1	35	
+Effective C++	9.5	1161	
+神祇、陵墓与学者	8.5	1113	
+Effective C++中文版	9.1	1354	
+C++ 程序设计语言（第 1 - 3 部分）（原书第 4 版）	9.4	37	
+UNIX环境高级编程	9.4	2270	
+邓普顿教你逆向投资	8.1	1477	
+权力精英	8.0	220	
+深入理解C指针	8.6	83	
+架构整洁之道	8.7	339	
+纳尼亚传奇	8.6	556	
+共同基金常识	8.2	277	
+计算机图形学原理及实践:C语言描述(原书第2版) (平装)	8.1	15	
+21st Century C	7.1	34	
+你的灯亮着吗?	7.4	1845	
+国家的视角	8.4	647	
+建筑的永恒之道	8.7	692	
+妙趣横生的算法	7.6	48	
+品悟C	2.9	171	
+死者在说话	8.8	693	
+新编剑桥中世纪史	0.0	2	
+要素品牌战略	7.6	76	
+C语言从入门到精通	7.4	46	
+科学的广告+我的广告生涯	8.4	889	
+纳尼亚传奇：狮子、女巫和魔衣柜	8.3	2571	
+高质量程序设计指南	8.3	39	
+C	0.0	6	
+金融学	8.5	440	
+大众天文学(上下两册)	8.8	462	
+权力精英	7.8	63	
+期权、期货及其他衍生产品	8.8	333	
+C++ Primer Plus	8.6	572	
+C++程序设计语言（特别版）	8.9	896	
+C++Primer Plus	8.5	618	
+Lexicon Latinitatis Nederlandicae Medii Aevi	0.0	0	
+Introducing Issues with Ovp	0.0	0	
+Key Element	0.0	0	
+LNM-1824	0.0	0	
+THE MANNER OF MAN THAT KILLS SPENCER	0.0	0	
+Astronomia Per Nicolaum Copernicum # Religionis Et Pietatis Christianae Per Martinum Lutherum Ad Scripturae Sacrae Norman Purgatae Egregia Adjutrix	0.0	0	
+Longman Cornerstone	0.0	0	
+List of Places in New York	0.0	0	
+LES L GANCES DE LA TOILETTE ROBES	0.0	0	
+THEOLOGY IN THE ENGLISH POETS COWPER	0.0	0	
+THEOLOGY IN THE ENGLISH POETS COWPER	0.0	0	
+List of Airports by Iata Code	0.0	0	
+List of Closed Railway Stations in Britain	0.0	0	
+List of Places in Pennsylvania	0.0	0	
+小学奥数举一反三 C 优化升级版 一年级	0.0	0	
+小学奥数举一反三 C 优化升级版 四年级	0.0	0	
+小学奥数举一反三 C 优化升级版 二年级	0.0	0	
+小学奥数举一反三 C 优化升级版 三年级	0.0	0	
+C语言程序设计与Keil C	0.0	0	
+Foundations of Computer Science	8.7	36	
+不成熟的父母	8.7	652	
+简单的艺术	8.1	1299	
+C++标准程序库	8.9	638	
+公司财务原理	9.0	186	
+C++设计新思维	9.0	332	
+线性代数及其应用（原书第5版）	9.2	53	
+测试驱动的嵌入式C语言开发	8.7	26	
+建筑模式语言（上下）	8.7	533	
+深度探索C++对象模型	9.0	308	
+Unity 5实战	8.0	31	
+白领	8.7	257	
+从问题到程序	8.5	13	
+制度、制度变迁与经济绩效	9.0	384	
+微观动机与宏观行为	8.2	297	
+C语言参考手册	7.6	23	
+武侠，从牛A到牛C	8.3	4774	
+JavaScript高级程序设计	8.6	983	
+剑桥古代史	0.0	3	
+Pro .NET Performance	7.6	11	
+四种爱	8.9	186	
+中国社会中的宗教	8.6	259	
+C#入门经典（第7版）	8.0	31	
+Learn C the Hard Way	9.2	28	
+数据结构	7.0	1320	
+期权、期货和其他衍生品（第5版）	9.0	864	
+自由的进化	8.1	230	
+乐观而不绝望	0.0	2	
+Unix/Linux编程实践教程	9.2	424	
+C	0.0	4	
+主动投资组合管理	8.8	138	
+暴力与社会秩序	8.6	537	
+跨平台软件开发	0.0	6	
+编程精粹	8.7	14	
+微积分之屠龙宝刀	8.7	521	
+科学史及其与哲学和宗教的关系	8.4	328	
+C++语言的设计和演化	8.8	419	
+战争的本质	8.8	44	
+大众天文学	9.0	130	
+金赛性学报告	8.4	416	
+C++程序设计原理与实践	8.9	177	
+Computer Graphics	0.0	7	
+白领	8.5	225	
+CLR via C#	9.5	312	
+C语言经典编程282例	6.8	10	
+C	0.0	3	
+A Byte of Python	8.7	1190	
+深入理解ES6	9.3	270	
+程序设计教程	8.1	30	
+UNIX环境高级编程（第3版）	9.5	357	
+计算机系统概论	9.1	189	
+全球经济史	8.0	666	
+邻里东京	7.9	211	
+C程序设计新思维	6.4	27	
+Clean Code	8.9	454	
+抗争政治	8.3	177	
+Information Theory, Inference and Learning Algorithms	9.2	116	
+Politeness	9.2	25	
+大卫·休谟传	8.5	91	
+财务管理分析	8.9	87	
+农民的道义经济学	8.5	292	
+电影史：理论与实践（最新修订版）	8.5	430	
+C	0.0	0	
+C++程序设计语言	8.8	195	
+C++标准库（第2版）	9.3	84	
+权力精英	8.1	71	
+Essential C++中文版	8.3	462	
+C++编程思想（第1卷）	8.3	694	
+Effective C	0.0	0	
+申不害	9.0	25	
+China Marches West	9.2	166	
+C++GUI Qt4编程	8.0	353	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C++大学教程	8.2	140	
+C程序设计的抽象思维	9.4	13	
+汉娜·阿伦特：活在黑暗时代	7.6	66	
+终极之问	8.1	270	
+C程序设计教程学习辅导	7.8	15	
+More Effective C++（中文版）	9.2	310	
+安全驾驶从这里开始	6.9	189	
+共同基金常识	8.5	190	
+C++反汇编与逆向分析技术揭秘	7.6	105	
+谁来守护公正	7.7	658	
+深入理解C#（第3版）	9.0	129	
+数学史（上下）	9.1	93	
+C++ Primer 英文版（第 5 版）	9.3	203	
+引爆社群	6.6	375	
+自制编程语言 基于C语言	8.3	17	
+How to Think Like a Computer Scientist	0.0	8	
+C++语言的设计与演化	9.2	100	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	2	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+c	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	1	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+C	0.0	0	
+信息论、推理与学习算法	8.9	56	
+功利主义	8.9	72	
+股市趋势技术分析	8.1	254	
+Nginx模块开发指南	0.0	4	
+计算机图形学原理及实践	0.0	5	
+期权、期货及其他衍生产品(原书第9版)	9.1	217	
+大衰退年代：宏观经济学的另一半与全球化的宿命	9.5	92	
+痛苦的奥秘	8.8	540	
+C#图解教程	9.3	142	
+Thinking in C++	9.1	238	
+C陷阱与缺陷	8.8	658	
+C和指针	9.1	315	
+歡迎光臨桃花源	6.8	32	
+C专家编程	9.2	477	
+100倍超级强势股	8.2	198	
+C语言程序设计	7.1	557	
+C++沉思录	8.6	281	
+C语言程序设计进阶教程	8.4	12	
+人之废	8.3	175	
+The Rise of Modern China	9.0	111	
+未来教育·全国计算机等级考试上机考试题库二级C	7.3	16	
+C++并发编程实战	6.0	98	
+中国文学纵横	8.7	21	
+C Elements of Style	0.0	6	
+沈从文传	8.4	335	
+股市趋势技术分析(原书第10版)	8.5	203	
+剑桥古代史	0.0	2	
+Accelerated C++中文版	8.8	131	
+国家的视角	8.4	156	
+C Programming Language	0.0	9	
+C语言核心技术	8.5	143	
+假如这是真的	7.5	711	
+C程序设计（第二版）	6.8	641	
+欧洲中世纪简史	9.1	195	
+维特根斯坦与哲学	7.9	380	
+C语言程序设计	7.2	14	
+C++ Primer中文版	8.8	845	
+Objective-C编程	8.3	252	
+Cocoa入门	7.5	158	
+Boost程序库完全开发指南	7.5	145	
+男性气概	7.8	89	
+C语言接口与实现	8.3	130	
+社会学的想象力	8.2	273	
+犹大之窗	8.8	146	
+Key Words for Fluency - Intermediate Collocation Practice	9.7	24	
+惊悦	8.6	96	
+C程序设计语言	9.6	183	
+你必须知道的495个C语言问题	8.2	234	
+夏志清夏济安书信集	8.5	50	
+0 bug	3.3	129	
+C语言编程魔法书	0.0	5	
+意向立场	8.2	39	
+设计模式	8.5	73	
+Linux程序设计	8.3	351	
+Make It Stick	8.4	116	
+投资分析与组合管理	8.9	26	
+我们为什么会生病	8.5	890	
+CLR via C#	9.3	100	
+敏捷软件开发	9.3	118	
+啊哈C！思考快你一步	7.6	146	
+浪漫主义革命	7.9	192	
+Essential C++中文版	9.1	145	
+世界哲学简史	7.5	105	
+C++面向对象程序设计	7.1	206	
+C Standard Library, including	0.0	0	
+C高级编程	0.0	6	
+Amazing Everything	9.2	41	
+Objective-C高级编程	8.6	288	
+21st Century C	0.0	4	
+算法笔记	9.2	215	
+C语言接口与实现	8.9	54	
+伟大指挥家	8.9	174	
+华尔街证券分析：股票分析与公司估值（原书第2版）	7.6	64	
+哲学的快乐	7.9	204	
+怎样玩转信息	8.2	179	
+C++编程思想（两卷合订本）	8.5	83	
+The Annotated ANSI C Standard	0.0	1	
+Embedded Systems Building Blocks	0.0	1	
+数据结构与算法分析	0.0	6	
+The C Answer Book	0.0	6	
+比较媒介体制	8.4	113	
+征服C指针	8.3	168	
+C++Templates中文版	8.5	167	
+The Lion, the Witch and the Wardrobe	7.8	371	
+Professional Multicore Programming	0.0	1	
+C++ Primer中文版	9.1	126	
+反穀	9.2	31	
+I, Claudius	9.0	35	
+面包坊	8.0	39	
+A Grief Observed	9.1	94	
+写给大家看的C语言书	8.1	113	
+金融衍生品建模	8.7	22	
+领导力21法则	7.2	200	
+常微分方程	8.3	131	
+博格长赢投资之道	7.5	110	
+Introduction to Computing Systems	9.3	45	
+Linux System Programming	8.4	71	
+C++程序设计教程	7.3	188	
+Human Accomplishment	9.3	15	
+数据结构、算法与应用	7.6	59	
+中层领导力	7.1	311	
+存在·空间·建筑	8.1	78	
+后殖民理性批判	7.5	47	
+天才时代	6.8	35	
+数据结构	8.0	112	
+A Book on C	0.0	5	
+Linux C从入门到精通	0.0	9	
+C Interfaces and Implementations	9.3	24	
+代码整洁之道:程序员的职业素养	8.8	245	
+占有性个人主义的政治理论	8.3	40	
+Objective-C基础教程	7.3	550	
+公司财务原理	8.8	117	
+卡尔霍恩文集（上下）	8.8	35	
+C++程序设计原理与实践	8.8	33	
+灯光师圣经（插图第4版）	9.2	30	
+不朽的钢琴家	8.6	191	
+应用密码学：协议、算法与C源程序（原书第2版）	8.3	43	
+逻辑的力量	7.6	135	
+分析心理学与梦的诠释	6.4	183	
+The Nine Billion Names of God	0.0	3	
+The Blue Frontier	9.6	14	
+哲学导论	9.3	37	
+C安全编码标准	9.0	21	
+中华帝国的法律	7.6	150	
+我是C罗	7.4	78	
+C程序设计语言	8.8	136	
+Advanced C Struct Programming	0.0	1	
+轻松学编程	0.0	5	
+未来教育.全国计算机等级考试上机真题、全真笔试、历年真题三合一二级C2012年考试专用	0.0	6	
+抗衰老饮食	7.5	71	
+Introduction to Numerical Programming	0.0	0	
+算法：C语言实现	8.8	25	
+C语言解惑	7.4	110	
+编写高质量代码	7.0	57	
+伊雍：自性现象学研究	8.4	34	
+C程序设计题解与上机指导	7.5	74	
+C#高级编程(第3版)	7.6	55	
+Objective-C基础教程	7.6	86	
+C/C++嵌入式系统编程	7.6	49	
+全球文化工业	7.8	63	
+A Retargetable C Compiler	9.6	10	
+C# in Depth	8.9	49	
+C#高效编程	8.9	56	
+Along the Riverbank	8.7	19	
+标准C程序设计	0.0	1	
+ASP.NET入门经典	7.1	42	
+C算法(第一卷:基础、数据结构、排序和搜索)(第三版)	8.0	49	
+Algorithms in C, Parts 1-4	8.1	36	
+魔鬼家书	8.9	399	
+数据结构	6.3	121	
+C Programming	9.6	53	
+Advanced C	0.0	1	
+C程序性能优化	6.7	25	
+精通C#（第6版）	8.7	25	
+Head First iPhone Development	8.6	40	
+理性、浪漫主义和基督教	8.1	24	
+The C++ Programming Language	9.4	94	
+Hacker's Delight	9.3	61	
+Object-Oriented Programming With ANSI-C	7.7	29	
+Exceptional C++（中文版）	9.7	40	
+21天学通C语言	8.6	63	
+重塑实在论	8.5	16	
+More Effective C#中文版	7.8	47	
+C 程序设计语言(第二版)	9.0	91	
+Programming	8.4	23	
+C Primer Plus	8.7	60	
+圣殿祭司的ASP.NET 2.0开发详解	7.4	42	
+C语言教程	8.5	39	
+Software and Hardware Engineering	0.0	0	
+C by Dissection	0.0	5	
+C语言程序设计疑难解析与技巧300例	0.0	0	
+C++程序设计基础教程	0.0	1	
+脑动力	0.0	2	
+The Standard C Library	8.2	32	
+C语言参考手册(原书第5版)	8.0	38	
+数字图像处理与机器视觉	8.0	34	
+Head First C	8.5	70	
+Pointers on C	9.5	44	
+大卷包小卷	9.0	53	
+Programming C# 3.0中文版（第5版）	8.4	31	
+分形算法与程序设计	7.0	18	
+C Traps and Pitfalls	8.9	69	
+C/C++深层探索	8.2	44	
+JavaScript面向对象精要	9.1	128	
+C/C++程序设计	0.0	0	
+Geometric Analysis and PDEs	0.0	0	
+C程序设计教程	8.6	57	
+Head First C#（中文版）	7.5	34	
+她想变成一种玫瑰香	8.9	32	
+圣洁	9.5	254	
+时空之恋3	7.8	68	
+Clean Architecture	8.8	141	
+纳尼亚人	7.5	13	
+C和C++安全编码	7.7	21	
+计算几何	7.9	10	
+Linux System Programming	9.0	42	
+精灵墨丘利	8.7	28	
+Generic Programming and the STL	8.8	11	
+C Primer Plus	9.4	47	
+Mastering Algorithms with C	8.3	37	
+Effective C#	7.9	24	
+正义的前沿	8.0	34	
+Value Investing	9.5	59	
+C Style	0.0	2	
+Programming for Engineers	0.0	0	
+An Annotated Bibliography of Inuit Art	0.0	0	
+C++程序设计教程	0.0	1	
+C语言上机指导与习题	0.0	1	
+C++探秘	7.6	24	
+Applied Cryptography	8.8	16	
+C: A Reference Manual (5th Edition)	7.9	12	
+算法：C语言实现	8.6	16	
+The History of Beads	9.1	12	
+Intel Threading Building Blocks	7.7	15	
+Sexual Life in Ancient China	9.6	11	
+Real-World Functional Programming	7.6	18	
+Twilight	8.3	25	
+快学Scala	7.5	216	
+Accelerated C++	8.9	136	
+白色神话	8.3	29	
+Visual C++ 2012入门经典	0.0	8	
+聆听智者	8.9	28	
+单页Web应用	7.6	92	
+领导力21法则	7.6	462	
+C算法（第二卷：图算法）（第3版）	8.3	27	
+编写高质量代码	7.1	46	
+NSHipster	9.1	20	
+C数值算法	8.7	22	
+编译器构造	0.0	8	
+WPF编程宝典	8.2	33	
+C语言点滴	7.4	41	
+用TCP/IP进行网际互连第二卷	7.5	14	
+福爾摩斯的功績	7.5	22	
+Erotic Colour Prints of Ming Period	0.0	6	
+嵌入式系统的微模块化程序设计	7.8	10	
+加勒比没那么远	7.7	37	
+零基础学C语言	7.8	38	
+C in a Nutshell	9.7	26	
+All My Road Before Me	0.0	0	
+C语言程序设计教程	0.0	0	
+普通高等教育"十二五"规划教材	0.0	1	
+两种文化	6.9	59	
+Compiler Construction	10.0	26	
+LINUX系统编程	8.1	97	
+Boost程序库完全开发指南	7.3	31	
+The Craft of Research, Third Edition	9.2	165	
+The Manchu Way	8.6	112	
+狂人C	7.3	32	
+The Perilous Frontier	0.0	9	
+Programming C#	7.7	34	
+C语言解析教程(原书第4版)	7.5	10	
+Little Fires Everywhere	7.7	638	
+Strange Parallels	0.0	7	
+Building iPhone Apps with HTML, CSS, and JavaScript	7.4	20	
+后殖民主义与世界格局	7.7	244	
+Breaking Dawn	8.4	44	
+C语言大全	7.3	29	
+C++编程艺术	7.8	21	
+算法之美	8.0	16	
+C形包围	7.8	1113	
+期权、期货及其他衍生产品	8.7	156	
+数据结构	7.1	33	
+精通Windows Sockets网络开发	8.1	20	
+剑桥古代史	0.0	0	
+The Dream Machine	0.0	2	
+C程序设计题解与上机指导	6.3	54	
+Linux C编程实战	7.4	55	
+实用C语言编程	7.8	17	
+A History of Britain	9.8	10	
+Understanding and Using C Pointers	7.8	41	
+敗德男祕密檔案	0.0	6	
+The Empire And the Khanate	0.0	8	
+插件式GIS应用框架的设计与实现	7.9	29	
+Linux环境下C编程指南	5.7	49	
+Along the Border of Heaven	0.0	6	
+The Ancestral Landscape	0.0	8	
+C语言详解	7.9	15	
+葉志偉私記：係命o黎o既	8.1	19	
+C++标准库扩展权威指南	7.4	14	
+Absolute C++中文版	8.4	30	
+時間的女兒	7.0	38	
+WPF 编程宝典	8.6	29	
+The Design and Evolution of C++	8.5	60	
+数据结构基础	7.1	43	
+The Practice of Programming	9.4	159	
+Conflict and Commerce in Maritime East Asia	0.0	7	
+银河边缘005：次元壁	9.1	24	
+Boost程序库探秘	6.9	10	
+Effective C#	8.1	17	
+切今之事	8.3	115	
+Effective Objective-C 2.0	8.7	297	
+C程序设计	7.4	47	
+Programming in C	8.1	32	
+Head First iPhone and iPad Development	8.4	21	
+财务管理分析	8.7	31	
+C/C++程序员实用大全	0.0	9	
+Applying Domain-Driven Design and Patterns	0.0	7	
+C#3.0设计模式	7.2	14	
+Struggle by the Pen	0.0	5	
+Compiler Design in C	0.0	7	
+格拉迪瓦在叫您	7.4	91	
+You Can Do It(附光盘) (平装)	7.3	19	
+果壳中的C#	7.9	18	
+C#XML入门经典--C#编程人员必备的XML技能	7.2	21	
+A Perpetual Fire	0.0	4	
+Regular Expression Pocket Reference	7.6	11	
+神祇·坟墓·学者	8.8	358	
+C Programming FAQs	9.2	28	
+C 语言的科学和艺术	8.1	30	
+面向对象编程C++和Java比较教程	0.0	9	
+C程序设计的抽象思维	9.0	11	
+The New C Standard	0.0	7	
+Effective C++	9.3	912	
+粉笔人	6.4	123	
+欧洲财政国家的兴起	8.2	30	
+Chinese History and Culture	0.0	4	
+富爸爸	7.4	48	
+从缺陷中学习C/C++	6.2	21	
+学术论文写作手册	7.9	57	
+纳尼亚传奇全集	9.0	116	
+奥地利学派经济学入门·米塞斯思想精要	9.4	60	
+鸡尾酒原来是这么回事儿	6.7	81	
+Strange Parallels	0.0	8	
+Unity 3D脚本编程	7.6	42	
+C语言参考手册	7.9	16	
+C语言程序设计（第4版）	9.1	18	
+C大学教程	8.4	30	
+.NET游戏编程入门经典	0.0	5	
+人力资源成为战略性业务伙伴	8.3	58	
+哥伦布、大航海时代与地理大发现	0.0	8	
+人盾	6.7	20	
+C程序设计伴侣	5.9	26	
+Linux C程序设计大全	5.3	23	
+C#高级编程(第9版)——C# 5.0 &.NET 4.5.1	7.5	27	
+Head First C#, 2E	7.8	16	
+C 语言参考手册（第五版）（英文版）	8.2	11	
+C嵌入式编程设计模式	5.4	20	
+C Program Language	8.7	20	
+Méthode de français Alter ego 5 C1-C2	0.0	8	
+C语言其实很简单	7.9	25	
+C程序设计教程	7.5	19	
+C语言入门经典（第5版）	9.0	39	
+Patterns of Fashion	8.3	11	
+C和C++安全编码	8.0	10	
+C语言的科学和艺术	8.4	13	
+Programming Windows	0.0	2	
+The China Mission	8.1	10	
+The C Programming Language, 2nd Eition	8.7	26	
+LLVM	0.0	0	
+数据结构与算法	7.7	15	
+Übungsgrammatik für die Mittelstufe - Erweiterte Fassung. Regeln - Listen - Übungen	9.5	21	
+Programming Abstractions in C	7.6	10	
+The History of Beads	0.0	2	
+Building iPhone Apps with HTML, CSS, and JavaScript	0.0	8	
+Effective Modern C++	9.1	13	
+The C Puzzle Book	7.4	10	
+The Archetypes and The Collective Unconscious	9.5	17	
+Advanced Qt Programming	0.0	6	
+Programming	9.1	10	
+C标准库	0.0	4	
+Linux 系统编程（第二版）	9.1	33	
+C#本质论	8.6	114	
+Linux C函数库详解词典	7.9	19	
+Secret History of the Mongols	0.0	5	
+世界战争大全	7.8	13	
+Secure Coding in C and C++	0.0	3	
+Test Driven Development for Embedded C	8.6	10	
+格林家殺人事件	7.5	19	
+Cradle of the East	0.0	1	
+Bridges to Heaven	0.0	4	
+TCP/IP Sockets in C, Second Edition	9.2	25	
+弱者的武器	8.4	113	
+纳尼亚传奇：黎明踏浪号	8.3	1030	
+C语言进阶	6.9	16	
+Linux环境C程序设计	6.0	20	
+Memory as a Programming Concept in C and C++	0.0	0	
+Fair Trade for All	0.0	2	
+Complete Maya Programming	0.0	8	
+荣格分析心理学导论	8.8	13	
+精通UNIX下C语言编程与项目实践	7.0	20	
+More Effective C#	7.8	10	
+精通C#游戏编程	0.0	9	
+マッドシンデレラ 5	8.0	19	
+新标准C++程序设计教程	7.8	23	
+C#程序设计	7.6	23	
+深入体验C语言项目开发	5.8	13	
+Linux程序设计	8.4	346	
+面向对象程序设计	7.8	17	
+阿嘉莎·克莉丝蒂小说选 4	8.8	21	
+Introduction to Game Design, Prototyping, and Development	0.0	5	
+The Supreme Court	0.0	3	
+Qt中的C++技术	7.1	20	
+Options, Futures and Other Derivatives (6th Edition)	9.2	355	
+C专家编程	0.0	3	
+C和C++程序员面试秘籍	0.0	9	
+STL Tutorial and Reference Guide	0.0	4	
+威士忌原来是这么回事儿	7.1	130	
+品牌源动力	9.1	10	
+Parallel Computing for Data Science	0.0	1	
+纳尼亚世界的构建者	0.0	6	
+C现代编程	7.7	17	
+C Primer Plus	9.2	28	
+Programming Embedded Systems	0.0	7	
+ASP.NET 4入门经典（第6版）	0.0	9	
+Objective-C开发范例代码大全	0.0	9	
+Boost程序库完全开发指南（第3版）	0.0	4	
+Learn C on the Mac (Learn Series)	8.0	22	
+C语言范例开发大全	7.5	11	
+像丘吉尔一样演讲  像林肯一样站立	8.3	60	
+UML+OOPC嵌入式C语言开发精讲	6.8	13	
+Building Automated Trading Systems	0.0	6	
+The Question of God	0.0	5	
+Expert C# 2008 Business Objects	0.0	3	
+自我与他者	0.0	7	
+Of Time And Stars	0.0	6	
+ぼくらのねがい 2	8.3	24	
+Chinese Architecture and Town Planning	0.0	4	
+Cocoa与Objective-C	0.0	5	
+农民的道义经济学	8.9	148	
+新概念51单片机C语言教程	7.8	196	
+iPhone Open Application Development	0.0	4	
+The Norton Anthology of English Literature   (Vol. Package 1	0.0	5	
+Working in Series	0.0	5	
+数据结构	8.8	19	
+Immutable Object	0.0	0	
+The Norton Anthology of English Literature	0.0	9	
+Blacksad	8.2	14	
+GNU C库技术手册	0.0	2	
+Darwin's Dangerous Idea	9.3	62	
+文明的崩塌	7.1	157	
+C语言详解	7.6	14	
+从零开始学C语言	5.7	11	
+C Primer Plus	9.3	44	
+STL Tutorial and Reference Guide	0.0	6	
+数据结构与算法	0.0	5	
+公司会计准则导论	0.0	2	
+Windows黑客技术揭秘与攻防Ⅰ	0.0	4	
+算法设计、分析与实现	0.0	5	
+皮尔士论符号	5.8	17	
+无线通信系统仿真	0.0	6	
+数据结构与算法	8.2	10	
+C++ Gems	0.0	2	
+Exploring Cinder	0.0	0	
+Learning OpenCV	0.0	5	
+C/C++/C#程序员实用大全	0.0	1	
+自制搜索引擎	7.8	37	
+C++	0.0	0	
+C游戏编程从入门到精通	8.0	11	
+iOS 7 Programming Fundamentals	0.0	8	
+Space Odyssey	0.0	5	
+The Art and Science of  C	7.3	14	
+数据结构习题解析	0.0	9	
+深入浅出C#	0.0	9	
+The Chronicles of Narnia Pop-up	0.0	8	
+朱子学と陽明学	0.0	4	
+The CERT C Secure Coding Standard	0.0	4	
+More Exceptional C++（中文版）	8.9	37	
+C语言入门经典	7.3	10	
+C++面向对象程序设计	7.8	10	
+Modern Multithreading	0.0	1	
+Ivor Horton's Beginning Visual C++ 2010	0.0	9	
+Preparacion Dele	8.8	10	
+Linux C编程从初学到精通	0.0	8	
+21天学通C语言	7.5	14	
+Modern C++ Design	8.7	125	
+C程序设计思想与方法	8.1	17	
+21天学通C++	7.6	24	
+The Hundred Years War	0.0	3	
+数据结构与算法	7.4	11	
+MonoTouch应用开发实践指南	0.0	3	
+Ancient China and the Yue	0.0	3	
+Secure Coding in C and C++	0.0	1	
+C++ Concurrency in Action	9.6	25	
+C程序设计 软件工程环境	7.8	10	
+C指针编程之道	6.3	16	
+Inside the C++ Object Model	9.1	138	
+C程序设计语言习题解答	0.0	7	
+TURBO C 实用大全	7.4	11	
+C++面向对象程序设计题解与上机指导	0.0	7	
+Windows应用高级编程	0.0	9	
+Sexual Behavior in the Human Female	0.0	1	
+聖徳太子	0.0	0	
+iPhone SDK编程入门经典	0.0	4	
+数据结构	7.3	13	
+恋なんかしたくない 今日から恋人になりました	7.3	19	
+美学史	9.5	27	
+罗杰斯心理治疗（万千心理）	8.5	45	
+太空序曲	7.7	133	
+C++程序设计:程序设计和面向对象设计入门(第3版)	0.0	2	
+Cambridge History of Christianity	0.0	2	
+Gramática de uso del español	0.0	3	
+精通Matlab与C/C++混合程序设计	6.6	11	
+Linux C编程	0.0	8	
+C语言大学实用教程	7.8	28	
+C陷阱与缺陷	0.0	7	
+Algorithms in C, Parts 1-5	0.0	6	
+重新设计社会科学研究	8.6	15	
+Rafa	0.0	6	
+数据结构与算法分析	6.4	18	
+The Art of Unit Testing	7.3	11	
+Learning Objective-C 2.0	0.0	6	
+The Fellowship	0.0	1	
+浪漫果味C	7.8	14	
+C语言接口与实现	8.8	15	
+The C Programming Language,Second Edition (International Edition)	0.0	5	
+DSP原理及其C编程开发技术	0.0	3	
+用实例学ASPNET (使用C#与ADONET(含盘)	7.6	13	
+莫扎特长笛与竖琴协奏曲	0.0	6	
+高爾夫謀殺案	0.0	9	
+Power, Politics, and People	0.0	0	
+Learn Objective-C for Java Developers (Learn Series)	0.0	1	
+Head First iPhone and iPad Development	0.0	6	
+Globalization and the Colonial Origins of the Great Divergence	0.0	2	
+Festivals in Classical China	0.0	0	
+Recursive Methods in Economic Dynamics	9.5	87	
+Absolute Beginner's Guide to C	0.0	7	
+C语言参悟之旅	7.0	11	
+中国传播政治经济学	0.0	2	
+炼金术之梦	8.5	21	
+MATLAB与C/C++混合编程	0.0	4	
+C++编程风格	8.4	11	
+C语言编程常见问题解答	0.0	6	
+Aion	0.0	4	
+Monte Carlo Frameworks	0.0	2	
+白盒测试之道	0.0	3	
+泛型程式設計與STL	0.0	1	
+Prüfungstraining TestDaF	7.8	11	
+The Rise of the Chinese Empire	0.0	3	
+数据结构	6.4	11	
+The Earth Has a Soul	0.0	1	
+Software Foundations	10.0	37	
+C语言解惑：指针、数组、函数和多文件编程	0.0	8	
+The New Cambridge Medieval History	0.0	3	
+C语言教程	0.0	5	
+C How to Program, Fifth Edition	7.8	11	
+标准C程序设计	8.3	17	
+C语言程序设计实例精粹	0.0	5	
+伯克利物理学教程（SI版）第1卷 力学	8.8	28	
+Sams Teach Yourself C# in 24 Hours	0.0	0	
+C++程序设计实践指导	0.0	5	
+敏捷软件开发	0.0	2	
+Fit for Developing Software	0.0	3	
+Bosch	0.0	8	
+Quantitative Finance	0.0	1	
+C++程序设计	5.3	15	
+编写高质量代码	4.7	13	
+Beginning Mac Programming	0.0	5	
+Companions in Geography	0.0	4	
+C语言教程	0.0	9	
+Greek Art and Archaeology	0.0	4	
+Encyclopaedia of Indian Temple Architecture	0.0	0	
+嵌入式Linux C语言应用程序设计	0.0	9	
+Writing Apache Modules with Perl and C	0.0	7	
+八十后看时代曲	0.0	3	
+C语言入门很简单	6.2	13	
+C编译器剖析 - 邹昌伟	0.0	2	
+C和指针	0.0	3	
+C#技术揭秘	0.0	5	
+白话C语言	7.5	13	
+悬案	0.0	9	
+Express Yourself	0.0	1	
+Pro LINQ	0.0	5	
+The Question of God	0.0	7	
+C语言程序设计教程	0.0	9	
+Foundations of Confucian Thought	0.0	4	
+Killing Hope	0.0	5	
+Action, Art, History	0.0	0	
+软件创富密码	0.0	5	
+C语言项目案例分析	0.0	2	
+数字音频规范与程序设计	0.0	4	
+C++ STL标准程序库开发指南	0.0	8	
+More Effective C#	0.0	6	
+Global Trade and the Transformation of Consumer Cultures	0.0	1	
+面向模式的软件架构 卷5	8.4	16	
+The GNU C Library Reference Manual	0.0	8	
+嵌入式C编程与Atmel AVR	0.0	9	
+Low-Level Programming: C, Assembly, and Program Execution on Intel® 64 Architecture	0.0	5	
+妙语短篇	0.0	6	
+海顿弦乐四重奏	0.0	2	
+莫扎特钢琴协奏曲	0.0	6	
+嵌入式系统设计与实例开发	0.0	5	
+Literature, Religion, And East/West Comparison	0.0	1	
+C++语言基础教程	0.0	5	
+The Middle Platonists	0.0	2	
+The Building of Renaissance Venice	0.0	2	
+Comprehension Orale, Niveau 4	0.0	9	
+标准C程序设计	0.0	7	
+恋はつづくよどこまでも 1	6.2	19	
+The Matter of Art	0.0	4	
+Shen Pu-Hai	0.0	1	
+Linux C/C++入门与进阶	0.0	3	
+精通Matlab与C/C++混合程序设计	0.0	6	
+21天学通C语言	0.0	8	
+消费信用模型	8.9	24	
+DK儿童动物百科全书•第2版	9.2	26	
+C How to Program, Fourth Edition	0.0	5	
+C语言编程精要12讲	0.0	7	
+The Hindu Equilibrium	0.0	2	
+The Sixties	0.0	1	
+The Cambridge History of Christianity	0.0	0	
+Algorithms in C	0.0	3	
+数据抽象和问题求解	0.0	4	
+肖斯塔科维奇第八弦乐四重奏	0.0	5	
+MFC Internals	0.0	1	
+嵌入式软件基础	0.0	2	
+.NET分布式编程	0.0	4	
+Appcelerator Titanium Smartphone App Development Cookbook	0.0	5	
+游戏设计、原型与开发	8.2	29	
+After the Ice	0.0	0	
+The Cambridge History of Southeast Asia	0.0	1	
+Economic Thought in Modern China	0.0	0	
+C语言开发入门与编程实践	0.0	5	
+Practical C Programming, 3rd Edition	0.0	5	
+C++实践之路	0.0	4	
+C程序员成长攻略	0.0	3	
+The New Cambridge Medieval History	0.0	0	
+C-Grammatik	0.0	3	
+Contextualization of Sufi Spirituality in Seventeenth- and Eighteenth-Century China	0.0	1	
+Through a Chinese Connoisseur's Eye	0.0	1	
+Reframing the Feudal Revolution	0.0	2	
+Professional JavaScript for Web Developers, 4th Edition	0.0	5	
+C/C++语言硬件程序设计	0.0	2	
+肖斯塔科维奇第一弦乐四重奏	0.0	2	
+Financial Mathematics	0.0	0	
+数据结构与问题求解	0.0	4	
+数据结构与算法	0.0	2	
+The Norton Anthology of American Literature	0.0	2	
+The Data Compression Book	0.0	2	
+Patterns of Fashion 2	0.0	7	
+从毕业生到程序员	0.0	6	
+Unity in Action	0.0	2	
+iPhone Game Development	0.0	5	
+C#科学计算讲义	0.0	1	
+ふしぎ遊戯 白虎仙記  1	9.0	11	
+Übungen zum Wortschatz der deutschen Schriftsprache	0.0	6	
+Intellectual Culture in Medieval Paris	0.0	0	
+C语言程序设计教程	0.0	7	
+轻松学C语言	0.0	7	
+Practical C Programming	0.0	6	
+云计算与分布式系统	5.7	40	
+新的方式与制度	8.3	24	
+Rcpp：R与C++的无缝整合	0.0	4	
+说话心理学：渗透潜意识的语言说服力	8.5	68	
+Beginning C	0.0	7	
+Professional CUDA C Programming	9.7	18	
+C语言算法速查手册	0.0	5	
+Bosch	0.0	3	
+TMS320C54x DSP结构、原理及应用	0.0	2	
+Visual C#学习笔记	0.0	8	
+XML Schema	0.0	3	
+Programming Windows Workflow Foundation	0.0	5	
+C语言程序设计习题解析与应用案例分析	0.0	2	
+Sams Teach Yourself C++ in One Hour a Day	0.0	9	
+Boost程序库完全开发指南	0.0	3	
+51单片机工程师是怎样炼成的	0.0	2	
+北京大学藏敦煌文献（二）	0.0	1	
+C++程序设计（英文版·第3版）	0.0	9	
+Theology as Science in Nineteenth Century Germany	0.0	1	
+L'Arc-En-Cielの新生	0.0	0	
+紺碧のサリフィーラ	0.0	6	
+Révolution	0.0	2	
+Functional Programming in C++	0.0	3	
+The Inklings	0.0	3	
+Heresy in the Later Middle Ages	0.0	1	
+Mind Landscapes	0.0	0	
+Texts of Greek and Latin Authors on the Far East	0.0	1	
+Linux C函数库参考手册	0.0	1	
+C Pocket Reference	0.0	2	
+8位单片机C语言编程	0.0	2	
+The Waite Group's C Primer Plus	0.0	1	
+C游戏编程从入门到精通	0.0	8	
+TCP/IP Sockets in C	0.0	6	
+C语言实例解析精粹	0.0	9	
+Clean Architecture：软件架构与设计匠艺（英文版）	9.4	10	
+光阴似箭	8.0	39	
+精通Linux C编程	0.0	6	
+C语言软件开发教程	0.0	1	
+C++大学教程	0.0	9	
+C语言程序设计	0.0	3	
+数据结构C语言版	0.0	9	
+A First Book of ANSI C, Fourth Edition	7.7	10	
+海顿弦乐四重奏	0.0	2	
+C语言程序设计教程	0.0	4	
+世紀末軟體革命	0.0	2	
+The Cambridge Ancient History Volume 4	0.0	0	
+C语言程序设计	0.0	6	
+Social Change in Contemporary China	0.0	1	
+亮剑.NET	0.0	5	
+妙语短篇C2	0.0	8	
+Patterns of Fashion 2	0.0	5	
+C# 5.0 Pocket Reference	0.0	5	
+C#项目案例分析	0.0	2	
+Aristotle's Empiricism	0.0	1	
+网红经济学	5.8	10	
+先有爛點子，才有好點子	0.0	2	
+Data Structures and Algorithms	0.0	2	
+The Best Time Travel Stories of the 20th Century	0.0	1	
+Remnants of Ch'in Law	0.0	2	
+The Archaeology of Mainland Southeast Asia	0.0	1	
+Art in the Lives of Ordinary Romans	0.0	0	
+功利教育批判	7.1	73	
+为什么速度越快，时间越少	8.2	58	
+狄奥提玛的孩子们	9.7	17	
+Oracle Database 10g XML & SQL	0.0	2	
+The Cambridge Economic History of India	0.0	2	
+Stochastic Methods in Finance	0.0	1	
+管理信息系统	0.0	3	
+The Sorrow and the Pity	0.0	0	
+The New Cambridge Medieval History	0.0	0	
+Visual C++系统开发实例精粹	0.0	4	
+C字滑行道	0.0	4	
+80後再看時代曲	0.0	4	
+C How to Program	0.0	7	
+C语言深度解剖	0.0	7	
+Algorithms in C (paperback)	0.0	3	
+Linux系统下C程序开发详解	0.0	7	
+你必须知道的495个C语言问题	0.0	5	
+C语言解惑	8.6	10	
+Lenten Lands	0.0	0	
+ARM9嵌入式系统设计	0.0	6	
+数据结构	0.0	4	
+The Norton Anthology of American Literature, Package 2	0.0	3	
+The Making and Unmaking of Empires	0.0	1	
+Inside the Object Model	0.0	0	
+The Collected Works of C.G. Jung	0.0	3	
+The O.C.	0.0	2	
+On Divination and Synchronicity	0.0	0	
+全国计算机等级考试上机考试习题集	0.0	2	
+The Han Rhapsody	0.0	2	
+Microsoft Visual C++ Windows Applications by Example	0.0	2	
+C# 4.0 Pocket Reference	0.0	4	
+Learning the iOS 4 SDK for JavaScript Programmers	0.0	3	
+Patterns of Fashion 1	0.0	3	
+C语言编程新手自学手册	0.0	3	
+現象学	0.0	5	
+Empire and Globalisation	0.0	1	
+A Hobbit, a Wardrobe, and a Great War	0.0	0	
+スパイラル ~推理の絆~ 1	0.0	7	
+OpenSSL	0.0	0	
+Mittelpunkt. Lehrwerk für Fortgeschrittene (B2,C1)	0.0	1	
+The Arts of Rule	0.0	0	
+Han Agriculture	0.0	0	
+C罗传奇	0.0	3	
+阿尔法经济学	8.5	49	
+C语言习题与解析	0.0	3	
+C语言程序设计	5.9	17	
+Enough	0.0	6	
+C++面向对象程序设计	0.0	7	
+Linux环境下C编程指南	0.0	3	
+Efficient C Programming	0.0	0	
+C++ 程序设计教程	7.4	126	
+Programming Embedded Systems in C and C ++	0.0	3	
+Shaping Medieval Markets	0.0	0	
+The New Cambridge Medieval History	0.0	1	
+Along the Riverbank	0.0	1	
+密码学	0.0	3	
+Linux C与C++ 一线开发实践	0.0	1	
+单片机的C语言应用程序设计(第3版)	0.0	5	
+Visual C++ 2013入门经典（第7版）	0.0	5	
+Design Patterns for Embedded Systems in C	0.0	1	
+C语言高级编程及实例剖析	0.0	0	
+DSP系统设计和BIOS编程及应用实例	0.0	1	
+愛情素描簿	0.0	6	
+职业之道	0.0	4	
+Symbian OS Explained	0.0	2	
+Faces of Degeneration	0.0	1	
+贝多芬弦乐四重奏	0.0	4	
+嵌入式系统设计与实例开发	0.0	5	
+斯图尔特·戴维斯画集 STUART DAVIS	0.0	2	
+Jack	0.0	1	
+H3C以太网交换机典型配置指导	0.0	0	
+赢在电子商务网站制作与营销	0.0	0	
+C语言常用算法分析	0.0	1	
+Religion, Technology, and the Great and Little Divergences	0.0	1	
+图像加密算法与实践	0.0	0	
+The Meaning of Meaning	0.0	0	
+Ancient China in Transition	0.0	3	
+Visual C++2010程序设计案例教程	0.0	1	
+CAD应用程序开发详解	0.0	1	
+The Rise of the Chinese Empire	0.0	0	
+Arithmetic Geometry	0.0	1	
+Eating Nature in Modern Germany	0.0	0	
+Symplectic 4-Manifolds and Algebraic Surfaces	0.0	1	
+Chasing Lost Time	0.0	0	
+浪漫果味C	0.0	8	
+21天学通Linux C编程	0.0	4	
+与尼采一起生活	7.2	43	
+Programmieren in C. ANSI C . Mit dem C- Reference Manual.	0.0	1	
+C安全编码标准(原书第2版)	0.0	3	
+C Programming Language	0.0	0	
+C# 2008 Wrox Box	0.0	2	
+C语言通用范例开发金典	0.0	4	
+C语言精彩编程百例	0.0	6	
+C语言从入门到精通	0.0	4	
+编写高质量代码：改善C程序代码的125个建议	0.0	5	
+Windows Via C/C++	0.0	0	
+Visual C/C++图形图像与游戏编程典型实例解析	0.0	1	
+C语言嵌入式系统开发	0.0	3	
+世界英文歌曲经典	0.0	3	
+Computer Science	0.0	3	
+Simply C. S. Lewis	0.0	1	
+War and Imperialism in Republican Rome	0.0	4	
+The Norton Anthology of English Literature	0.0	2	
+Professional ASP.NET 3.5	0.0	5	
+Planet Narnia	0.0	0	
+The O.C.	0.0	1	
+O.C., The	0.0	0	
+8051单片机实践教程	0.0	0	
+世界太美麗	0.0	2	
+Developing Software for Symbian OS	0.0	4	
+Black Art of 3D Game Programming	0.0	0	
+ASP.NET 4高级编程	0.0	0	
+GIS程序设计教程	0.0	1	
+C语言开发入门及项目实战	0.0	2	
+C#经典编程220例	0.0	1	
+em neu. Ausgabe in drei Bänden. Deutsch als Fremdsprache	0.0	2	
+单片机原理及应用-C51编程+Proteus仿真	0.0	0	
+别样诠释	0.0	3	
+现代C++探秘	0.0	5	
+新编C语言习题与解析	0.0	2	
+Fighting Poverty in the US and Europe	0.0	2	
+The Bhagavad-Gita	0.0	4	
+妙齡女大亨 01	0.0	2	
+The Agrarian Origins of Modern Japan	0.0	2	
+Debugging Windows Programs	0.0	0	
+Standards of Living in the Later Middle Ages	0.0	4	
+The Art of Death	0.0	1	
+Handbook of Macroeconomics	0.0	1	
+The Cambridge History of Southeast Asia	0.0	1	
+数字图像处理与机器视觉	0.0	2	
+French Books of Hours	0.0	0	
+Clean Agile: Back to Basics	0.0	6	
+C++代码整洁之道：C++17可持续软件开发模式实践	0.0	8	
+C语言大学实用教程	0.0	2	
+Union and Liberty	0.0	4	
+大卖	8.1	40	
+WINDOWS C程序设计入门与提高	0.0	1	
+数据结构与程序设计(C语言描述)第2版--英文	0.0	3	
+The Elements of C Programming Style	0.0	0	
+Fundamentals of Data Structures in C	0.0	7	
+工程问题C语言求解	0.0	5	
+C语言学习利器	0.0	3	
+C语言程序设计	0.0	1	
+Starting Out with C++	0.0	7	
+C How to Program	0.0	0	
+C语言高级实例解析	0.0	9	
+Biographical Dictionary of Chinese Women	0.0	0	
+No Bugs!	0.0	0	
+Java for C/C++ Programmers	0.0	1	
+Plato's Late Ontology	0.0	0	
+Cadre Commun	0.0	3	
+Programming for Chemical Engineers	0.0	0	
+Encyclopaedia of Indian Temple Architecture	0.0	0	
+The Cambridge History of Southeast Asia	0.0	0	
+C/C++ 程序设计大全	0.0	3	
+Visual C/C++系统开发典型实例解析	0.0	2	
+C和C++代码锦囊	0.0	1	
+C++入门经典(第4版)	0.0	3	
+LINUX上的C编程	0.0	1	
+C语言开发实战宝典	0.0	1	
+C语言从入门到精通	0.0	6	
+乐在C语言	0.0	7	
+C++程序设计（原书第3版）	9.0	12	
+最后的、非科学性的附言	9.2	27	
+全国计算机等级考试二级教程	0.0	2	
+The Narnian	0.0	0	
+Exploring C++	0.0	1	
+C++程序设计学习与上机实验指导	0.0	2	
+沟通	0.0	4	
+嵌入式处理器原理及应用	0.0	1	
+数据结构	0.0	6	
+C++大学基础教程	0.0	5	
+C++语言教程	0.0	1	
+The Inklings of Oxford	0.0	3	
+The Collected Stories of Arthur C. Clarke	0.0	2	
+Advanced Algorithms for Neural Networks	0.0	1	
+Data Structure Programming	0.0	1	
+An American Vision	0.0	3	
+A History of Classical Scholarship	0.0	1	
+C#编程和.NET框架	0.0	1	
+The History of Reading, Volume 1	0.0	0	
+手把手教你学DSP	0.0	1	
+C语言函数参考手册	0.0	0	
+基于ArcObjects与C#.NET的GIS应用开发	0.0	3	
+Telegraphic Imperialism	0.0	1	
+算法设计与分析	0.0	3	
+AVR单片机工程师是怎样炼成的	0.0	1	
+Finks	0.0	1	
+We Go Out	0.0	9	
+C#6.0学习笔记	0.0	4	
+国际法律辩论赛	0.0	9	
+Cocoa 入门	0.0	4	
+Beyond Binary Histories	0.0	1	
+GDI+ Programming	0.0	0	
+Germans into Jews	0.0	0	
+Metaphysics and Morality	0.0	1	
+Internetworking with TCP/IP Vol. II	0.0	0	
+Collected Works of C.G. Jung	0.0	0	
+Before Time Could Change Them	0.0	1	
+Life and Death in Picasso	0.0	1	
+LAS Claves Del Nuevo Dele	0.0	5	
+Advanced Quantitative Finance with C++	0.0	2	
+Roman Sex	0.0	2	
+基于Proteus和Keil C51的单片机设计与仿真	0.0	2	
+Social Reformers in Urban China	0.0	1	
+面向对象的程序设计语言	0.0	3	
+Inventing the Public Sphere	0.0	0	
+The Ancient Near East	0.0	0	
+Unity in Action, Second Edition	0.0	1	
+C/C++程序设计	0.0	2	
+Nginx完全开发指南：使用C、C++和OpenResty	0.0	2	
+C/C++求职宝典	0.0	1	
+C++之旅（英文版）	0.0	3	
+C Sar Du Cin Ma Par Ann E	0.0	0	
+Problem Solving and Program Design in C	0.0	3	
+无需法律的秩序	8.5	146	
+C语言实战105例	0.0	4	
+ANSI C应用程序设计	0.0	5	
+8051单片机C语言彻底应用	0.0	3	
+Writing Efficient C Code	0.0	0	
+Numerical Recipes in C	0.0	1	
+C#范例开发大全	0.0	1	
+The Gnu C Programming Tutorial	0.0	3	
+The New Cambridge Medieval History, Vol. 4	0.0	1	
+The New Cambridge Medieval History, Vol. 4	0.0	2	
+Women Writing in India	0.0	0	
+Communication System Design Using DSP Algorithms	0.0	0	
+C及C++程序设计	0.0	2	
+CONFLICT - the Insiders' Guide to Storytelling in Factual/reality TV & Film	0.0	0	
+Imperialism and Jewish Society	0.0	1	
+The Jewish Community in Rome	0.0	0	
+The Cambridge Economic History of India	0.0	0	
+the Cambridge Economic History of India	0.0	0	
+Brew	0.0	3	
+Prayers in Stone	0.0	1	
+Hardau	0.0	0	
+The Inception of Modern Professional Education	0.0	1	
+Calculus of Variations and Nonlinear Partial Differential Equations	0.0	0	
+Middle Judaism	0.0	0	
+Encyclopaedia of Indian Temple Architecture (Volume II, Part II)	0.0	0	
+The Clergy in the Medieval World	0.0	1	
+Reagents, Auxiliaries, and Catalysts for C-C Bond Formation	0.0	0	
+The Nonlinear Workbook	0.0	0	
+De l'épée scythe au sabre mongol	0.0	0	
+C++沉思录	8.5	361	
+认识生态（第6版）	0.0	8	
+C++	0.0	0	
+Honduran Football Clubs	0.0	0	
+C++程序设计教程	0.0	0	
+The Cambridge History of Literary Criticism	0.0	1	
+American Theorists of the Novel	0.0	2	
+Strange Parallels	0.0	0	
+Beyond Wall Street	0.0	1	
+Learning C# 2005	0.0	3	
+嵌入式系统设计与实例开发实验教材Ⅰ	0.0	2	
+C++程序设计教程	0.0	3	
+数据结构	0.0	0	
+2007历届笔试真题详解	0.0	0	
+Thelonious Monk Fake Book	0.0	0	
+A Medieval Life	0.0	3	
+Greek Lexicon of the Roman and Byzantine Periods	0.0	0	
+数据结构	0.0	3	
+A Book on C	0.0	3	
+Applied Cryptography	0.0	1	
+Speech Recognition	0.0	0	
+Capital!	0.0	2	
+Agape Leadership	0.0	2	
+Germany in the High Middle Ages	0.0	3	
+ARM9嵌入式系统设计	0.0	4	
+日本東北情‧緣	0.0	2	
+C语言程序开发范例宝典	0.0	0	
+Jesuit Political Thought	0.0	0	
+全国计算机等级考试上机考试与题库解析	0.0	2	
+C++程序设计题解与上机指导	0.0	3	
+Imagining the Middle Class	0.0	1	
+C#数据库应用程序开发技术与案例教程	0.0	2	
+基于UNIX/LINUX的C系统编程	0.0	0	
+The Supreme Court	0.0	0	
+Boost程序库探秘	0.0	2	
+家庭教师 21	0.0	6	
+Chinese Art of the Warring States Period	0.0	3	
+C语言程序设计教程	0.0	3	
+轻松学C++	0.0	3	
+2013年版·全国计算机等级考试二级教程	0.0	2	
+学习使用C指针(影印版)	0.0	2	
+みだらな熱帯魚5	0.0	3	
+C# 6 and .NET Core 1.0: Modern Cross-Platform Development	0.0	2	
+LINQ Unleashed	0.0	2	
+Titeuf tome 2. L'amour c'est pô propre...	0.0	3	
+The Wisdom Of the Dream	0.0	0	
+Visual C++程序开发范例宝典	0.0	2	
+C++程序设计教程	0.0	0	
+The Nonlinear Workbook	0.0	0	
+Geographies of Empire	0.0	0	
+Greek Elegiac Poetry	0.0	0	
+Luck and the Irish	0.0	2	
+Beginning Mac OS X Game Development with Cocoa	0.0	0	
+Augustine's Manichaean Dilemma, Volume 1	0.0	1	
+Technology and War	0.0	0	
+Princes, Patronage, and the Nobility	0.0	0	
+Chinese Texts and Philosophical Contexts	0.0	1	
+The Political Economy of Craft Production	0.0	0	
+Ifa Premiership Clubs	0.0	0	
+Greek Football Clubs	0.0	0	
+Premier League Clubs	0.0	0	
+League of Ireland First Division Clubs	0.0	0	
+Scottish Football Clubs	0.0	0	
+Welsh Football Clubs	0.0	0	
+标准C 语言实用全书  含盘	0.0	2	
+问题求解与程序设计C语言版	0.0	3	
+Embedded C Coding Standard	0.0	2	
+Linux C程序基础与实例讲解	0.0	4	
+C语言时尚编程百例	0.0	3	
+County Galway Football Clubs	0.0	0	
+Eastern Counties Football League	0.0	0	
+League of Ireland Premier Division Clubs	0.0	0	
+Association Football Clubs Established in 1879	0.0	0	
+Defunct English Football Clubs	0.0	0	
+Sport in Devon	0.0	0	
+C Sar Du Cin Ma	0.0	0	
+Type C2 Ships	0.0	0	
+莱昂氏UNIX源代码分析	8.9	106	
+Isocyclische Hydroxy-Verbindungen. Teil 1	0.0	0	
+Verbindungen Mit Zwei Sticksoff-Ringatomen. Teil 1	0.0	0	
+Verbindungen Mit Stickstoff- Und Sauerstoff-Ringatomen. Teil 1	0.0	0	
+Isocyclische Oxo-Verbindungen. Teil 1	0.0	0	
+Verbindungen Mit Einem Stickstoff-Ringatom. Teil 1	0.0	0	
+Teil 1	0.0	0	
+English Women's Football Clubs	0.0	0	
+C Ramique	0.0	0	
+Southern Football Feeder League Team Introduction	0.0	0	
+Association Football Clubs Established in 1884	0.0	0	
+Association Football Clubs Established in 1878	0.0	0	
+Association Football Clubs Established in 1886	0.0	0	
+Sport in Bedfordshire	0.0	0	
+Sport in York	0.0	0	
+Sport in Medway	0.0	0	
+Sliema Wanderers F.C.	0.0	0	
+Life of the Right Hon. Sir Alfred Comyn Lyall	0.0	0	
+Dundalk F.C.	0.0	0	
+Marsaxlokk F.C.	0.0	0	
+U.C. Sampdoria	0.0	0	
+West Ham United F.C.	0.0	0	
+Unique Schools Serving Unique Students	0.0	0	
+考证·驾驶全程通·适用车型C1、C2、C3、C4	0.0	0	
+Empire and Scottish Society	0.0	0	
+這就是天堂！我的北韓童年	7.7	736	
+富有的习惯	6.8	254	
+Borland C++ Builder实用培训教程	0.0	0	
+C语言教程	0.0	3	
+51单片机C语言程序设计快速入门	0.0	1	
+从实践中学嵌入式Linux C编程	0.0	1	
+21天学通Linux C编程	0.0	5	
+零基础学C语言	0.0	3	
+你必须知道的213个C语言问题	0.0	5	
+零基础学嵌入式Linux C编程	0.0	2	
+C语言程序开发范例宝典	0.0	5	
+ANSI C 标准详解	0.0	1	
+《C/C++语言程序设计》同步进阶经典100例与习题指导	0.0	3	
+C All-In-One Desk Reference for Dummies	0.0	3	
+算法（第5部分）	8.6	33	
+The Inklings Handbook	0.0	1	
+Beyond Sovereignty	0.0	0	
+安徽省"十一五"规划教材·嵌入实时操作系统μC/OS-2教程	0.0	3	
+The Real Book - Volume II	0.0	2	
+Warriors of the Steppe	0.0	1	
+Charlie Parker Omnibook	0.0	6	
+21世纪大学计算机基础规划教材·Visual C++程序设计基础	0.0	1	
+The Family Values Tour 1998 Postcard	0.0	0	
+四國約定	0.0	5	
+C and the 8051	0.0	0	
+Sexual Life in Ancient China	0.0	0	
+数据结构	0.0	1	
+全国计算机等级考试笔试考试习题集	0.0	2	
+File Structures	0.0	0	
+.NET Web服务入门经典	0.0	1	
+专家门诊	0.0	2	
+C++ Solutions	0.0	1	
+C语言程序设计	0.0	3	
+Antique Advertising Postcards in Full Color	0.0	0	
+C How to Program	0.0	2	
+Symbian OS Explained	0.0	3	
+妙语短篇C3	0.0	2	
+Mahler Symphony No.2 in c Minor "Resurrection"	0.0	3	
+至理	0.0	1	
+亮剑.NET	0.0	2	
+The Chronicles of Narnia	0.0	1	
+全国计算机等级考试教程	0.0	2	
+Data Structures	0.0	1	
+编程大讲坛	0.0	2	
+Shades of Love	0.0	0	
+数据结构C++语言描述	0.0	1	
+Visual C++程序开发范例宝典	0.0	3	
+C#程序设计经典教程	0.0	2	
+数据结构	0.0	0	
+C#数据库编程实战经典	0.0	0	
+The Temple of Gnidus	0.0	2	
+The Chinese empire, illustrated	0.0	3	
+The Mint	0.0	0	
+Mittelpunkt. Lehrwerk für Fortgeschrittene (B2,C1)	0.0	1	
+Open Source	0.0	1	
+God's Empire	0.0	0	
+The Wars of the Roses	0.0	0	
+基于案例的Visual C++程序设计教程	0.0	0	
+Programming Language Researchers	0.0	0	
+Finance, Politics, and Imperialism	0.0	1	
+Lerngrammatik zur Studienvorbereitung	0.0	0	
+"十二五"全国高校数字游戏设计精品教材	0.0	2	
+Pathways of Empire	0.0	1	
+Senate and General	0.0	1	
+The Archaeology of South Asia	0.0	1	
+Ancient Wisdom in the Age of the New Science	0.0	1	
+Roots of Empire	0.0	1	
+汝、オレに愛を誓え	0.0	3	
+烏龜脖矯正操	0.0	0	
+六大思想构建物理学·第1卷	0.0	2	
+全国计算机等级考试二级教程	0.0	2	
+新思路·全国计算机等级考试上机考试新版题库	0.0	1	
+Fuir	0.0	3	
+Anna Gavalda Coffret 3 volumes	0.0	0	
+C++程序设计试题汇编	0.0	2	
+Visual C++全能速查宝典	0.0	2	
+新手学C++	0.0	4	
+Primer of Modern Analysis	0.0	1	
+Monument Wars	0.0	2	
+Anthony Browne's King Kong	0.0	2	
+Titeuf, tome 4	0.0	1	
+Earthlight & Other Stories	0.0	1	
+Representation Theory and Complex Analysis	0.0	0	
+可视化程序设计Visual C++	0.0	1	
+Democracy and Possessive Individualism	0.0	0	
+Traces of the Calligrapher	0.0	1	
+Physics by Computer	0.0	2	
+Cambridge History of Christianity	0.0	0	
+LSAT Reading Comprehension by Type, Volume 1	0.0	3	
+Linux C编程80例详解	0.0	4	
+Science and Whig Manners	0.0	0	
+The Norton Anthology of American Literature	0.0	1	
+Oracle Essentials	0.0	0	
+Späte Texte über Zeitkonstitution (1929-1934)	0.0	2	
+Austria, Hungary, and the Habsburgs	0.0	1	
+数据结构	0.0	1	
+Renaissance France at War	0.0	1	
+The Gnostic Jung	0.0	1	
+The Cambridge History of Southeast Asia	0.0	0	
+Voir l'histoire	0.0	0	
+The Magistrates of the Roman Republic 1	0.0	1	
+Scott 2007 Standard Postage Stamp Catalogue	0.0	0	
+数据结构教程与题解	0.0	1	
+Inverse Problems and Imaging	0.0	0	
+Programs and Data Structures in C	0.0	1	
+India, and India Missions	0.0	1	
+Imperialism and Jewish Society	0.0	1	
+C/C++常见编程问题及解答	0.0	0	
+Orationes	0.0	0	
+Mozart	0.0	0	
+Tchaikovsky	0.0	1	
+C/C++程序设计学习指南	0.0	0	
+The World of the Troubadours	0.0	0	
+Measuring the Mind	0.0	0	
+At the Gate of Christendom	0.0	0	
+W.I.T.C.H. Characters	0.0	0	
+Schnock 9	0.0	1	
+The Cambridge Economic History of India	0.0	0	
+La vie financière dans le monde romain	0.0	1	
+Textiles and Clothing	0.0	0	
+.NET 3.5 Wrox Box	0.0	0	
+C++ mit Microsoft Visual C++ 2008	0.0	0	
+Architecture and Language	0.0	0	
+A Union of Multiple Identities	0.0	0	
+Probabilistic Models for Nonlinear Partial Differential Equations	0.0	0	
+C/C++与数据结构（下册）	0.0	0	
+Mozart	0.0	1	
+C/C++程序设计	0.0	1	
+'Quaestiones Alberti de Modis significandi.' A critical edition	0.0	0	
+Beginning C# Hands-On – The Core Language	0.0	0	
+Canon Law, Careers and Conquest	0.0	0	
+Scotland before the Industrial Revolution	0.0	0	
+A Study of Mechanism in Education	0.0	1	
+第27届中国飞行器测控学术会议论文集:测控的空间更广阔(英文版)	0.0	1	
+MATLAB数字图像处理	0.0	0	
+Learn WebAssembly	0.0	6	
+The New Cambridge Medieval History	0.0	0	
+Arduino编程从零开始	0.0	1	
+La mémoire des cités dans le Péloponnèse d'époque romaine	0.0	0	
+Wortschatzübungen für Fortgeschrittene	0.0	1	
+Reversing Babel	0.0	0	
+Transitions to Capitalism in Early Modern Europe	0.0	0	
+Communes in Satu Mare County	0.0	0	
+E-Commerce in Chile	0.0	0	
+The Rival Princes	0.0	0	
+Foreign Relations of C Te D'Ivoire	0.0	0	
+Government of C Te D'Ivoire	0.0	0	
+An  Exposure of the Spy System Pursued in Glasgow, During the Years 1816-17-18-19 & 20	0.0	0	
+Vie Du Marchal, Duc de Villars, de L'Academie Franoise	0.0	0	
+Manchester City F.C. Seasons	0.0	0	
+English Football Clubs 2004-05 Season	0.0	0	
+Aek Athens F.C. Seasons	0.0	0	
+Gillingham F.C.	0.0	0	
+Association Football Clubs Established in 1976	0.0	0	
+Association Football Clubs Established in 1965	0.0	0	
+The Conscience Clause, Can It Be Justified?	0.0	0	
+Cities, Towns and Villages in Goychay Rayon	0.0	0	
+Sports Teams and Clubs in Sheffield	0.0	0	
+Vie Du Mar Chal, Duc de Villars, de L'Academie Fran Oise	0.0	0	
+From Corua to Sevastopol	0.0	0	
+Football Managers in Wales by Club	0.0	0	
+Bnei Yehuda Tel Aviv F.C.	0.0	0	
+Washington, D.C. Society	0.0	0	
+Bac Giang Geography Introduction	0.0	0	
+Leicester City F.C.	0.0	0	
+New Zealand Soccer Clubs	0.0	0	
+Middlesbrough F.C.	0.0	0	
+Sport in Buckinghamshire	0.0	0	
+Scottish Football Club Introduction	0.0	0	
+Norwich City F.C.	0.0	0	
+Plymouth Argyle F.C.	0.0	0	
+The Life of Sir George Pomeroy	0.0	0	
+Association Football Clubs Established in 1892	0.0	0	
+Association Football Clubs Established in 1880	0.0	0	
+Association Football Clubs Disestablished in 2007	0.0	0	
+Sport in Gloucestershire	0.0	0	
+Sport in Cheshire	0.0	0	
+Sport in Kent	0.0	0	
+Sport in Norfolk	0.0	0	
+Sport in Doncaster	0.0	0	
+The Life of General Sir Howard Douglas	0.0	0	
+Rugby Union Players in Ireland by Club	0.0	0	
+F.C. Messina Peloro	0.0	0	
+Football Managers in Israel by Club	0.0	0	
+East Fife F.C.	0.0	0	
+Morecambe F.C.	0.0	0	
+Airdrie United F.C.	0.0	0	
+Atalanta B.C.	0.0	0	
+Third Lanark A.C.	0.0	0	
+Blackpool F.C. Seasons	0.0	0	
+Hardenbrass and Haverill; Or, the Secret of the Castle, a Novel. Containing a Madman and No Madman	0.0	0	
+The Apollo	0.0	0	
+The Beginnings of Accounting Practice and Accounting Thought	0.0	0	
+The Beginnings of Accounting and Accounting Thought	0.0	0	
+Tu tu¿ng Trung Qu¿c	0.0	0	
+The CERT® C Coding Standard, Second Edition	0.0	0	
+Using C With Curses, Lex, and Yacc	0.0	0	
+Checking C Programs with Lint (Nutshell Handbooks)	0.0	0	
+ARM嵌入式C编程标准教程	0.0	2	
+C语言程序设计	0.0	8	
+C++程序设计	0.0	3	
+C语言开发手册	0.0	4	
+c programming in linux	0.0	4	
+C语言程序设计基础实验与题解	0.0	2	
+C++	0.0	5	
+学C编程也可以卡通一点	9.2	11	
+Q版漫画技法从入门到精通	7.8	77	
+这只是一部电影	8.0	430	
+你這個娘炮	0.0	0	
+Objective-C 2.0程序设计	7.7	262	
+二级C语言-全国计算机等级考试教程	0.0	2	
+City Walks	0.0	0	
+The Fin de Siècle	0.0	1	
+The Cambridge History of the Book in Britain	0.0	0	
+An Illustrated Dictionary of Historic Costume (Dover Pictorial Archive Series)	0.0	0	
+Imagining the Middle Class	0.0	0	
+Between Heaven and Hell	0.0	0	
+RNA Interference in Practice	0.0	0	
+MCS-51单片机培训教程	0.0	0	
+OCTOBER HORSE	0.0	2	
+Henry I and the Anglo-Norman World	0.0	0	
+The Pagan Tribes of Borneo	0.0	0	
+编程语言基础	0.0	0	
+我们的打工作战	0.0	1	
+Visual C#.NET应用教程(附光盘)	0.0	1	
+C++程序设计	0.0	2	
+Fair Trade for All	0.0	0	
+The Life and Times of Horatio Hornblower	0.0	1	
+实时数字信号处理	0.0	0	
+PIC16F87X单片机实用软件与接口技术	0.0	1	
+O.C. Undercover	0.0	0	
+Eastern Questions	0.0	0	
+新编C语言程序设计教程	0.0	2	
+Six Ideas That Shaped Physics	0.0	2	
+Looking at Lovemaking	0.0	2	
+Beyond Babylon	0.0	5	
+Foundations of C++/CLI	0.0	1	
+The Military Organisation of a Renaissance State	0.0	1	
+Kinetic Theories and the Boltzmann Equation	0.0	0	
+Stability with Growth	0.0	0	
+Medieval Art	0.0	0	
+.NET Gotchas	0.0	0	
+Professional ASP.NET 3.5 SP1 Edition	0.0	1	
+Modern China in Transition	0.0	0	
+Visual C#+Oracle数据库系统开发全程导引与实战精研	0.0	0	
+Mediterraneans	0.0	3	
+C# in Front Office	0.0	0	
+二级C语言程序设计-全国计算机等级考试新版上机题库-2012年9月考试专用	0.0	0	
+Perspectives On A Changing China	0.0	0	
+单片机技术及C51程序设计	0.0	2	
+C++面向对象程序设计习题解析与实验教程	0.0	0	
+C++程序设计	0.0	1	
+Embodiments of Will	0.0	0	
+案例式C语言实验与习题指导	0.0	1	
+Visual C# 2010程序设计教程	0.0	0	
+Leonhard Euleri Opera Omnia	0.0	0	
+精通C#编程	0.0	2	
+ATmega16单片机项目驱动教程	0.0	0	
+ASP.NET动态网站设计教程	0.0	1	
+Visual C++应用开发	0.0	1	
+C++开发实例教程	0.0	0	
+CLASSICS OF FORMAT 【C/D】	0.0	1	
+C语言程序设计教程	0.0	0	
+Deciphering the Lost Symbol	0.0	1	
+Human Liberty and Freedom of Speech	0.0	1	
+Citadel to City-State	0.0	0	
+Biologie, logique et metaphysique chez Aristote	0.0	0	
+Shadowlands	0.0	1	
+Ocaml Programming Language Family	0.0	0	
+Nuovo Qui Italia Più	0.0	1	
+An Historical Geography of Europe	0.0	0	
+Evil, Barbarism and Empire	0.0	0	
+Early Rome and Latium	0.0	0	
+ARM嵌入式微控制器程序设计入门	0.0	0	
+Visual C#.NET程序设计教程	0.0	3	
+天冥の標VII	0.0	2	
+The News of Empire	0.0	0	
+Learn C# in One Day and Learn It Well	0.0	5	
+Rédiger un texte académique en français	0.0	1	
+Power, Politics, and People	0.0	0	
+Xamarin Mobile Application Development	0.0	0	
+Visual C++入门经典	0.0	1	
+编码的法则	0.0	1	
+IMI-TATION（仮）	0.0	1	
+Joy	0.0	1	
+JoJo 奇妙冒險 Part 7 - Steel Ball Run (Vol.17)	0.0	5	
+Beginning C for Arduino	0.0	0	
+C. S. Lewis and His Circle	0.0	0	
+Essential 3D Game Programming	0.0	0	
+Qt Extended	0.0	0	
+Ruminations on C++	0.0	1	
+Greek Orations	0.0	0	
+Bettina Rheims & Serge Bramly	0.0	2	
+Introduction to Computing Systems	0.0	1	
+The Poetical Works of Christina Georgina Rossetti	0.0	0	
+Introduction to Computer Science	0.0	0	
+Program Development and Design Using C++, Third Edition	0.0	3	
+All I Could Bare	0.0	0	
+Gandharan Avadanas	0.0	0	
+Introduction to Computing Systems	0.0	1	
+北海道太陽花傳說	0.0	2	
+Myths in Stone	0.0	0	
+Quick Recipes on Symbian OS	0.0	3	
+南非世界杯明星-托雷斯	0.0	1	
+AVR Microcontroller and Embedded Systems	0.0	0	
+Programming with Objects	0.0	0	
+The Deal Maker	0.0	0	
+Visions of Symmetry	0.0	1	
+The Western Heritage	0.0	0	
+The Narnian	0.0	0	
+Engineering Problem Solving with C++	0.0	3	
+C++高级程序设计实验与习题指导	0.0	0	
+Visual C++空间图形可视化算法原理与实践	0.0	0	
+高级语言程序设计	0.0	3	
+C++程序设计	0.0	3	
+God and the World of Signs	0.0	0	
+Radical Sisters	0.0	1	
+Dutch East India Company Merchants at the Court of Ayutthaya, Ca. 1604-1765	0.0	0	
+More Effective C# (Includes Content Update Program): 50 Specific Ways to Improve Your C# (2nd Edition) (Effective Software Development Series)	0.0	0	
+C#程序设计教程上机指导与习题解答	0.0	0	
+Byzantine Infantryman	0.0	0	
+From Two Cultures to No Culture	0.0	0	
+The Oxford Handbook of the Archaeology of the Levant	0.0	0	
+Optimal Transportation and Applications	0.0	1	
+Law, Disorder and the Colonial State	0.0	1	
+编程大讲坛	0.0	2	
+General of the Army	0.0	0	
+The Nonlinear Workbook	0.0	1	
+Reading The Red Book	0.0	0	
+轻松学编程	0.0	2	
+The Inklings	0.0	2	
+Imperial Bodies	0.0	1	
+Radical Ambition	0.0	0	
+数据结构的C++伪码实现(英文版)	0.0	2	
+51单片机C语言开发与实例	0.0	1	
+C Programming	0.0	0	
+Advanced C Programming by Example	0.0	1	
+Linux C函数实例速查手册	0.0	2	
+Pointers in C	0.0	4	
+手把手教你学C语言	0.0	4	
+C Memory Management Techniques	0.0	0	
+c语言解惑	0.0	0	
+C语言从入门到精通	0.0	6	
+Linux下C语言应用编程	0.0	3	
+C#入门经典	7.8	242	
+Renaissances	0.0	0	
+C/C++程序设计	0.0	0	
+L'Orienté Objet	0.0	0	
+Il giudaismo palestinese	0.0	0	
+Mensam exercere	0.0	0	
+C/C++程序设计实验教程	0.0	0	
+Cantate Domino	0.0	0	
+C语言与C++语言程序设计	0.0	0	
+Hyperbolic Systems of Balance Laws	0.0	0	
+C\C++程序设计题解及实验教程	0.0	0	
+Numerical Recipes Multi-Language Code CD ROM with LINUX or UNIX Single-Screen License	0.0	0	
+Scott 2005 Standard Postage Stamp Catalogue, Vol. 2	0.0	0	
+DB2 Express-c	0.0	0	
+Grandmaster Repertoire	0.0	0	
+The American Lawyer	0.0	0	
+Pocket Handbook of Useful Information	0.0	0	
+Musical Keys	0.0	0	
+Lisons, Lisette	0.0	0	
+Constitutional Law	0.0	0	
+C/C++程序设计教程	0.0	0	
+Gmelin	0.0	0	
+Gmelin Handbook of Inorganic and Organometallic Chemistry	0.0	0	
+Gmelin Handbook of Inorganic and Organometallic Chemistry	0.0	0	
+Gmelin	0.0	0	
+Gmelin	0.0	0	
+Beilstein	0.0	0	
+C16h14 - C17h18	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+C2 - C12	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+C1 - C7	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Beilstein	0.0	0	
+Index of Organic Compounds Compounds with 13 to 100 Carbon Atoms	0.0	0	
+2. Teil	0.0	0	
+Organic Electronic and Photonic Materials and Devices	0.0	0	
+1. Teil	0.0	0	
+C/C++程序设计	0.0	0	
+Beethoven	0.0	0	
+The Law of Railways	0.0	0	
+Session C74	0.0	0	
+The Sun Is Snowing	0.0	0	
+C/C++程序设计	0.0	0	
+.Net	0.0	0	
+Fortran, C and Algorithms	0.0	0	
+Medieval Holy Women in the Christian Tradition, c.1100 - c.1500	0.0	0	
+First Little Readers Parent Pack	0.0	0	
+Tons of Tunes from the Classics	0.0	0	
+Dvorak	0.0	0	
+Mendelssohn	0.0	0	
+The Cambridge Ancient History	0.0	0	
+The New American Garderner	0.0	0	
+C/C++程序设计实验教程	0.0	0	
+The History of the Bucaniers of America	0.0	0	
+History of the North-Western Soldiers' Fair, Held in Chicago the Last Week of October and the First Week of November, 1863	0.0	0	
+The History of the Proceedings and Debates of the Volunteer Delegates of Ireland	0.0	0	
+Memoirs of William Sampson	0.0	0	
+The Works of W. Chillingworth	0.0	0	
+L'Orologio del Piacere	0.0	0	
+East Staffordshire	0.0	0	
+Sport in Stoke-On-Trent	0.0	0	
+Washington, D.C.	0.0	0	
+Le monde chinois	0.0	0	
+Gimn Stic de Tarragona	0.0	0	
+Hakoah Ramat Gan	0.0	0	
+Health in Edinburgh	0.0	0	
+Heme-Thiolate Proteins	0.0	0	
+Sport in Milton Keynes	0.0	0	
+Waterford United F.C.	0.0	0	
+Skoda Xanthi F.C.	0.0	0	
+The Local Historian's Table Book	0.0	0	
+Fables for the Holy Alliance	0.0	0	
+A Tour Through Germany	0.0	0	
+Fictional Cult Leaders	0.0	0	
+Association Football Clubs Established in 1919	0.0	0	
+Inventaire-Sommaire Des Archives Dpartementales Antrieures 1790	0.0	0	
+Exoplanets Discovered in 2008	0.0	0	
+The Practical Works	0.0	0	
+Association Football Clubs Established in 1934	0.0	0	
+Association Football Clubs Established in 1933	0.0	0	
+Association Football Clubs Established in 1956	0.0	0	
+Association Football Clubs Established in 1970	0.0	0	
+Secretaries of State of New York	0.0	0	
+3c Objects	0.0	0	
+Rugby Union Clubs in London	0.0	0	
+The School and the Schoolmaster	0.0	0	
+World War II POW Camps	0.0	0	
+Communes of Bac Kan Province	0.0	0	
+Voyage Au Levant,	0.0	0	
+The School and the Schoolmaster	0.0	0	
+Memoirs of James the Second, King of England	0.0	0	
+The Mining Magazine	0.0	0	
+Poems, from the Portuguese of Luis de Camoens	0.0	0	
+Football League Wartime Guest Players by Club	0.0	0	
+Automobile Volvo	0.0	0	
+Boston United F.C.	0.0	0	
+Public Transport in Washington, D.C.	0.0	0	
+Versuch Eines Geographisch-Historischen Worterbuches	0.0	0	
+Wohnhaus in Heilbronn	0.0	0	
+Numeronyms	0.0	0	
+Mozambique Introduction	0.0	0	
+People from Hampton, Virginia	0.0	0	
+Association Football Clubs Established in 1895	0.0	0	
+Real Madrid	0.0	0	
+Mexican Football Clubs	0.0	0	
+2000s Japanese Single Introduction	0.0	0	
+French Football Clubs	0.0	0	
+Aston Villa F.C.	0.0	0	
+Leeds United A.F.C.	0.0	0	
+The Mining and Statistic Magazine	0.0	0	
+2008 in London	0.0	0	
+The Book of the World	0.0	0	
+English Football Clubs 2007-08 Season	0.0	0	
+Sport in Birmingham, England	0.0	0	
+Life and Letters of Sir James Graham	0.0	0	
+Association Football Clubs Established in 1923	0.0	0	
+Class-Based Programming Languages	0.0	0	
+National Express Group Companies	0.0	0	
+S.W. Silver & Co.'s Handbook to Canada	0.0	0	
+Barr's Buffon. Buffon's Natural History	0.0	0	
+Outlines of Church Teaching	0.0	0	
+2008 in Greece	0.0	0	
+La Vie Musicale Dans Les Provinces Fran Aises	0.0	0	
+Association Football Clubs Established in 1894	0.0	0	
+Association Football Academies	0.0	0	
+On the Representation of the University of Oxford	0.0	0	
+Nautical Historical Novelists	0.0	0	
+2007 in Greece	0.0	0	
+Histoire de La Gr Ce	0.0	0	
+Plain Tracts for Critical Times	0.0	0	
+The History of France	0.0	0	
+The Mining Magazine	0.0	0	
+The Life of Thomas Paine	0.0	0	
+Tude Conomique Et Juridique Sur Les Associations	0.0	0	
+Derby County F.C.	0.0	0	
+Researchers	0.0	0	
+Simon Fraser University Alumni	0.0	0	
+Soweto	0.0	0	
+Sport in Dundee	0.0	0	
+Sport in East Sussex	0.0	0	
+Train Operating Companies	0.0	0	
+Le G Nie de P Trarque	0.0	0	
+A.C. Reggiana 1919	0.0	0	
+A.C. Arezzo	0.0	0	
+Real Madrid C.F. Matches	0.0	0	
+Fragmenta Po Tarum Veterum Recentior M, Ponderosioribus Metris	0.0	0	
+Alumni of Presidency College, Chennai	0.0	0	
+Histoire Des Deux Triumvirats	0.0	0	
+Batrachomyomachia Graece Ad Veterum Exemplarium Fidem Recusa	0.0	0	
+Origines Kalendaria Italica	0.0	0	
+The Reminiscences of Thomas Dibdin	0.0	0	
+Four Years in a Government Exploring Expedition	0.0	0	
+Inventaire Sommaire Des Archives Dpartementales Antrieures 1790, Puy-de-Dme	0.0	0	
+A Tour Through Germany	0.0	0	
+Horace	0.0	0	
+British Manly Exercises	0.0	0	
+C R Ale	0.0	0	
+Satellite Awards	0.0	0	
+Groupe Fonctionnel	0.0	0	
+The Standard-Operaglass	0.0	0	
+Empoli F.C.	0.0	0	
+Football Managers in Greece by Club	0.0	0	
+People Associated with Aberdeen F.C.	0.0	0	
+Nacional	0.0	0	
+New Brighton A.F.C.	0.0	0	
+Linfield F.C.	0.0	0	
+Modena F.C.	0.0	0	
+Arbroath F.C.	0.0	0	
+Athlone Town A.F.C.	0.0	0	
+The Mining Magazine	0.0	0	
+Cowdenbeath F.C.	0.0	0	
+Maccabi Netanya	0.0	0	
+Sutton United F.C.	0.0	0	
+F.C. Atlas	0.0	0	
+Sport in Tyne and Wear	0.0	0	
+Sport in West Sussex	0.0	0	
+Handbook of the Arts of the Middle Ages and Renaissance	0.0	0	
+F.C. Internazionale Milano	0.0	0	
+United States Military Transport Aircraft 1940-1949	0.0	0	
+A Guide to the Study of Chronological Prophecy	0.0	0	
+Renaissances	0.0	0	
+Industrial Corporation Laws of New-York	0.0	0	
+U.S. Supreme Court Transcript of Record East Tex Motor Freight Lines V. Frozen Food Exp	0.0	0	
+Quickreads	0.0	0	
+A Narrative of God's Love to William Thoresby	0.0	0	
+Essn Amer Govt	0.0	0	
+Computer Sys	0.0	0	
+U.S. Supreme Court Transcript of Record Moog Industries, Inc V. F T C	0.0	0	
+Scott 2017 Standard Postage Stamp Catalogue, Volume 2	0.0	0	
+The Diaoyutai/Senkaku Islands dispute	0.0	0	
+Science of Synthesis Stereoselective Synthesis Workbench Volume 1	0.0	0	
+Science of Synthesis Stereoselective Synthesis Workbench Volume 3	0.0	0	
+The New Cambridge Medieval History	0.0	0	
+Coast to Coast Cycle Routes Three Great Sea to Sea Rides	0.0	0	
+Magari	0.0	1	
+Comicalities; Or, Budget of Amusement for All Seasons	0.0	0	
+Dictionnaire D'Anecdotes	0.0	0	
+Central Europe in the High Middle Ages	0.0	0	
+European Outthrust and Encounter	0.0	0	
+El Circulo Hermetico/ a Record of Two Friends	0.0	0	
+Mastering C++	0.0	0	
+Windows Programming With Microsoft C++	0.0	0	
+Torres, Atalayas y Casas Fortificadas	0.0	0	
+Computer Science	0.0	0	
+The Crisis Regime	0.0	0	
+Stochastic PDE's and Kolmogorov Equations in Infinite Dimensions	0.0	0	
+The Sphere Illustrated History of Britain	0.0	0	
+Hommes et Dieux en Egypte	0.0	0	
+The Works of George Berkeley, D.D., Bishop of Cloyne	0.0	0	
+Le Haut-Empire romain en Occident	0.0	0	
+D'Alexandre a Zenobie	0.0	0	
+The Mopar Six-Pack Engine Handbook HP1528	0.0	0	
+Tenos II	0.0	0	
+Fear of Being Fat	0.0	0	
+The Worst Band in the World	0.0	0	
+The Dictionary of the Older Scottish Tongue	0.0	0	
+Tecnicas belicas del mundo antiguo/ Fighting Techniques of the Ancient World	0.0	0	
+A Short History of the Middle Ages, Volume I	0.0	0	
+Saint Paul Trois Chateaux	0.0	0	
+Nobility, Faith and Masculinity	0.0	0	
+Das Win32-API 1	0.0	0	
+The Roman middle republic	0.0	0	
+Femmes influentes dans le monde hellénistique et à Rome	0.0	0	
+Mesopotamian architecture and town planning	0.0	0	
+Interoperability	0.0	0	
+Border Liberties and Loyalties	0.0	0	
+Les femmes en Gaule romaine	0.0	0	
+Knightly Piety and the Lay Response to the First Crusade	0.0	0	
+Transitions to Capitalism in Early Modern Europe	0.0	0	
+Archaic Greece	0.0	0	
+Introduction to Computing Systems	0.0	0	
+İSTANBUL C1 & C1+	0.0	0	
+Bách Gia Chu T¿	0.0	0	
+The Politics of Hunger	0.0	0	
+Venice as the Polity of Mercy	0.0	0	
+Jerusalem: Portrait of the City in the Second Temple Period	0.0	0	
+Hello C语言	0.0	7	
+C/C++与数据结构	0.0	4	
+工程问题C语言求解	0.0	2	
+光晕	7.2	994	
+边用边学C语言学习指导与测评	0.0	1	
+How Not to Program in C++	0.0	1	
+C Unleashed	0.0	1	
+C函数实用手册	0.0	5	
+Hardware Verification with C++	0.0	1	
+C How to Program (3rd Edition)	0.0	2	
+边用边学C 语言	0.0	1	
+Linux C程序员指南	0.0	2	
+Data Structures Using C	0.0	0	
+C Programming Absolute Beginner's Guide	0.0	2	
+Introduction to Time Series Analysis and Forecasting	0.0	0	
+C++编程规范	8.3	353	
+教你讀懂文學的27堂課	9.3	15	
+大规模C++程序设计	7.8	120	
+儿童启蒙巧手丛书	0.0	0	
+Jack's Life	0.0	0	
+Companion to Narnia, Revised Edition	0.0	0	
+C语言程序设计实用教程	0.0	1	
+TOE1C托业听力测试题集	0.0	0	
+Technology and War	0.0	0	
+C语言程序设计	0.0	1	
+The Augustan Succession	0.0	0	
+C语言程序设计能力训练指导	0.0	0	
+Roman Britain and Early England	0.0	0	
+C++ Gotchas 中文版	0.0	0	
+Beyond Boundaries	0.0	0	
+C 程序设计简明教程	0.0	2	
+Art in the Lives of Ordinary Romans	0.0	0	
+Yard	0.0	1	
+Cancer and Vitamin C	0.0	0	
+Jade	0.0	1	
+My Senator and Me	0.0	1	
+MCAD Developing and Implementing Web Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET Exam Cram 2	0.0	0	
+科学的前沿	0.0	0	
+面向对象程序设计	0.0	1	
+数据结构	0.0	1	
+The C++ Primer	0.0	0	
+Jung, Synchronicity, and Human Destiny	0.0	0	
+XQuery from the Experts	0.0	0	
+数据结构	0.0	1	
+C++程序设计教程与实训	0.0	1	
+C程序设计教程上机辅导与习题集	0.0	0	
+C语言程序设计实验与实训指导及题解	0.0	0	
+Thinking in C	0.0	0	
+全国计算机等级考试全面剖析及考前冲刺	0.0	1	
+The Cambridge Ancient History	0.0	0	
+The Dragon and the Foreign Devils	0.0	0	
+数据结构	0.0	1	
+数据结构	0.0	0	
+.NET程序设计	0.0	1	
+Visual C++6.0数据库高级编程	0.0	1	
+数据结构	0.0	1	
+Visual Studio Tools for Office	0.0	0	
+C++ Primer Plus Book	0.0	0	
+The Wal-Mart Decade	0.0	2	
+C程序设计教程	0.0	2	
+Collaboration, Reputation, and Ethics in American Academic Life	0.0	3	
+The Earth and Its Peoples	0.0	0	
+The Symbolic Life	0.0	0	
+计算机应用技术实验系列教材	0.0	0	
+I Did It His Way	0.0	1	
+The Poetical Works of Edmund Spenser	0.0	0	
+Alchemical Active Imagination	0.0	0	
+Architectural ornament	0.0	0	
+The Politics of Truth	0.0	2	
+This Sceptred Isle	0.0	0	
+God's Amateur	0.0	1	
+Quantum Transport	0.0	0	
+Macedonian Empire	0.0	0	
+Functional Differential Equations	0.0	0	
+C语言程序设计	0.0	1	
+C语言程序设计上机指导与习题解答	0.0	1	
+C.北纬45°的建坛思辨 2008年第六届全国建筑与规划研究生年会论文集	0.0	1	
+Founding Father	0.0	1	
+妙语短篇-C1	0.0	2	
+City in Time	0.0	1	
+Romy Schneider	0.0	0	
+L'architecture romaine	0.0	1	
+Visual c#2005 逆引き大全500の極意	0.0	1	
+Sams Teach Yourself the C# Language in 21 Days	0.0	0	
+Data Structures	0.0	1	
+Beginning ASP.NET 3.5	0.0	1	
+Indie Fonts 2	0.0	0	
+The Archetypal Symbolism of Animals	0.0	0	
+Glazes Cone 6	0.0	1	
+The Reluctant Emperor	0.0	1	
+The History of Beads	0.0	0	
+Expert Visual C++/CLI	0.0	0	
+The Politics of Myth	0.0	0	
+Sams' Teach Yourself C in 21 Days	0.0	0	
+The Origins of Greek Civilization	0.0	1	
+Strange Parallels	0.0	0	
+计算机程序设计基础	0.0	0	
+Siegfried	0.0	1	
+Patterns of Fashion 4	0.0	0	
+Le printemps des magiciens	0.0	0	
+Return of the World Soul	0.0	0	
+2013全国专业技术人员职称外语等级考试真题汇编及详解	0.0	1	
+C语言程序设计经典实验案例集	0.0	1	
+Nonlinear PDE's and Applications	0.0	0	
+相棒シリーズ 鑑識・米沢の事件簿2~知りすぎていた女~	0.0	1	
+C++语言程序设计教程与实验	0.0	1	
+Visual C#2010程序设计实用教程	0.0	2	
+C++程序设计上机指导与习题解答	0.0	1	
+C语言程序设计教程	0.0	0	
+C++语言程序设计教程	0.0	0	
+C语言程序设计教程	0.0	1	
+C语言程序设计习题集	0.0	0	
+Encyclopaedia of Indian Temple Architecture	0.0	0	
+Ending the Byzantine Greek Schism	0.0	2	
+嵌入式C程序设计	0.0	0	
+Narrative of the Expedition of an American Squadron to the China Seas and Japan	0.0	1	
+The Norton Anthology of World Literature   (Vol. Package 1	0.0	0	
+MCS-51单片机C语言程序设计与实践	0.0	1	
+解析C程序设计	0.0	1	
+Visions of the People	0.0	0	
+C语言基础	0.0	0	
+Carrots and Sticks Don't Work	0.0	0	
+全国计算机等级考试笔试+上机全真模拟	0.0	1	
+em neu. Ausgabe in drei Bänden. Deutsch als Fremdsprache	0.0	2	
+The Cambridge Companion to C. S. Lewis	0.0	1	
+Introducing Visual C# 2010	0.0	0	
+Sumerian mythology	0.0	1	
+二级考试试卷汇编	0.0	0	
+Bacterial Cellular Metabolic Systems	0.0	0	
+The Cambridge Ancient History	0.0	0	
+The Cambridge Ancient History	0.0	0	
+Godly Clergy in Early Stuart England	0.0	0	
+A Short Course in Computational Science and Engineering	0.0	0	
+Why "A" Students Work for "C" Students and "B" Students Work for the Government	0.0	2	
+二级公共基础知识与C语言程序设计	0.0	1	
+基于汇编与C语言的单片机原理及应用	0.0	1	
+51单片机原理及应用	0.0	0	
+嵌入式系统开发基础	0.0	0	
+单片机原理及应用	0.0	3	
+二级C语言-全国计算机等级考试无纸化专用题库	0.0	0	
+History of New Testament Research	0.0	0	
+East African Mammals	0.0	0	
+Power and Property in Medieval Germany	0.0	0	
+Britain's Oceanic Empire	0.0	0	
+Israel in the Persian Period	0.0	1	
+Rhodesians Never Die	0.0	0	
+PIC18系列单片机原理及C语言开发	0.0	0	
+Visual C#.NET实用教程	0.0	1	
+全国计算机等级考试二级教程	0.0	2	
+Masks of Empire	0.0	0	
+Programming	0.0	0	
+ALTER ego C2.1	0.0	1	
+Business Managers in Ancient Rome	0.0	0	
+Hegemony to Empire	0.0	0	
+Effective C#	0.0	3	
+安全关键软件开发与审定	0.0	4	
+Port Towns and Urban Cultures	0.0	0	
+アート オブ J. C. ライエンデッカー	9.4	11	
+Burmese Administrative Cycles	0.0	0	
+Visions of Sodom	0.0	0	
+The Light of Nature	0.0	0	
+至美	0.0	3	
+Working for His Majesty	0.0	0	
+CRAFT vol.66	0.0	2	
+Wolfgang Amadeus Mozart · Piano Concertos IV	0.0	2	
+Cut It Out	0.0	1	
+Learn C++ In A DAY	0.0	0	
+机载软件适航标准DO-178B/C研究	0.0	3	
+The Ancient Arabs	0.0	0	
+Ocean of Trade	0.0	0	
+Seduction	0.0	0	
+The 'Ever-Victorious Army'	0.0	0	
+Scientific programming	0.0	1	
